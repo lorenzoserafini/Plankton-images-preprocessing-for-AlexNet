@@ -1,0 +1,470 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.7.17)  2 AUG 2024 17:37
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"u:/Matlab report/Report/main.tex"
+(u:/Matlab report/Report/main.tex
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+(C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
+(C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count194
+\c@section=\count195
+\c@subsection=\count196
+\c@subsubsection=\count197
+\c@paragraph=\count198
+\c@subparagraph=\count199
+\c@figure=\count266
+\c@table=\count267
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (aaai24.sty
+Package: aaai24 2023/06/26 AAAI 2024 Submission format
+
+Conference Style for AAAI for LaTeX 2e -- version for submission
+\titlebox=\skip51
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\helvet.sty
+Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
+Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen142
+\Gin@req@width=\dimen143
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip52
+\bibsep=\skip53
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count268
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen144
+\captionmargin=\dimen145
+\caption@leftmargin=\dimen146
+\caption@rightmargin=\dimen147
+\caption@width=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count269
+\c@continuedfloat=\count270
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count271
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count272
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/06/14 v2.6d Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box52
+\extrarowheight=\dimen153
+\NC@list=\toks18
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box53
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count273
+\float@exts=\toks19
+\float@box=\box54
+\@float@everytoks=\toks20
+\@floatcapt=\box55
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks21
+\c@algorithm=\count274
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count275
+\c@ALC@line=\count276
+\c@ALC@rem=\count277
+\c@ALC@depth=\count278
+\ALC@tlm=\skip56
+\algorithmicindent=\skip57
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2023/10/01 v1.2 Defining new floating environments (AR)
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count279
+\lst@gtempboxa=\box56
+\lst@token=\toks22
+\lst@length=\count280
+\lst@currlwidth=\dimen154
+\lst@column=\count281
+\lst@pos=\count282
+\lst@lostspace=\dimen155
+\lst@width=\dimen156
+\lst@newlines=\count283
+\lst@lineno=\count284
+\lst@maxwidth=\dimen157
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2024/05/25 1.10b (Carsten Heinz)
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2024/05/25 1.10b (Carsten Heinz)
+\c@lstnumber=\count285
+\lst@skipnumbers=\count286
+\lst@framebox=\box57
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2024/05/25 1.10b listings configuration
+))
+Package: listings 2024/05/25 1.10b (Carsten Heinz)
+\@float@every@listing=\toks23
+\c@listing=\count287
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip58
+\enit@outerparindent=\dimen158
+\enit@toks=\toks24
+\enit@inbox=\box58
+\enit@count@id=\count288
+\enitdp@description=\count289
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+\c@section@level=\count290
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks25
+\XKV@tempa@toks=\toks26
+)
+\XKV@depth=\count291
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box59
+)
+\tc@llx=\dimen159
+\tc@lly=\dimen160
+\tc@urx=\dimen161
+\tc@ury=\dimen162
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen163
+\adjbox@Height=\dimen164
+\adjbox@Depth=\dimen165
+\adjbox@Totalheight=\dimen166
+\adjbox@pwidth=\dimen167
+\adjbox@pheight=\dimen168
+\adjbox@pdepth=\dimen169
+\adjbox@ptotalheight=\dimen170
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count292
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box60
+\sift@deathcycles=\count293
+\@vwid@loff=\dimen171
+\@vwid@roff=\dimen172
+)) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip59
+\multirow@cntb=\count294
+\multirow@dima=\skip60
+\bigstrutjot=\dimen173
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2024/05/23 v2.17q AMS math features
+\@mathmargin=\skip61
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen174
+)) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen175
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count295
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count296
+\leftroot@=\count297
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count298
+\DOTSCASE@=\count299
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box61
+\strutbox@=\box62
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen176
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count300
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count301
+\dotsspace@=\muskip18
+\c@parentequation=\count302
+\dspbrk@lvl=\count303
+\tag@help=\toks28
+\row@=\count304
+\column@=\count305
+\maxfields@=\count306
+\andhelp@=\toks29
+\eqnshift@=\dimen177
+\alignsep@=\dimen178
+\tagshift@=\dimen179
+\tagwidth@=\dimen180
+\totwidth@=\dimen181
+\lineht@=\dimen182
+\@envbody=\toks30
+\multlinegap=\skip62
+\multlinetaggap=\skip63
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 161.
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count307
+\l__pdf_internal_box=\box63
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 161.
+LaTeX Font Info:    ... okay on input line 161.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 161.
+LaTeX Font Info:    ... okay on input line 161.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 161.
+LaTeX Font Info:    ... okay on input line 161.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 161.
+LaTeX Font Info:    ... okay on input line 161.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 161.
+LaTeX Font Info:    ... okay on input line 161.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 161.
+LaTeX Font Info:    ... okay on input line 161.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 161.
+LaTeX Font Info:    ... okay on input line 161.
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen183
+\scratchbox=\box64
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen184
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks33
+) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package newfloat Info: `float' package detected.
+\c@lstlisting=\count314
+\c@eqfn=\count315
+\titlearea=\box65
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 164.
+ (C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 164.
+\actualheight=\skip64
+<./img/EX2_only_resized_41_84.png, id=1, 245.2362pt x 198.9834pt>
+File: ./img/EX2_only_resized_41_84.png Graphic file (type png)
+<use ./img/EX2_only_resized_41_84.png>
+Package pdftex.def Info: ./img/EX2_only_resized_41_84.png  used on input line 197.
+(pdftex.def)             Requested size: 227.64894pt x 184.71259pt.
+<./img/EX2_padded_and_resized_41_84.png, id=2, 245.2362pt x 198.9834pt>
+File: ./img/EX2_padded_and_resized_41_84.png Graphic file (type png)
+<use ./img/EX2_padded_and_resized_41_84.png>
+Package pdftex.def Info: ./img/EX2_padded_and_resized_41_84.png  used on input line 201.
+(pdftex.def)             Requested size: 227.64894pt x 184.71259pt.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./img/histeq_gray_orig_ex_07.png, id=3, 245.2362pt x 198.9834pt>
+File: ./img/histeq_gray_orig_ex_07.png Graphic file (type png)
+<use ./img/histeq_gray_orig_ex_07.png>
+Package pdftex.def Info: ./img/histeq_gray_orig_ex_07.png  used on input line 216.
+(pdftex.def)             Requested size: 227.64894pt x 184.71259pt.
+<./img/histeq_ex_07.png, id=4, 245.2362pt x 198.9834pt>
+File: ./img/histeq_ex_07.png Graphic file (type png)
+<use ./img/histeq_ex_07.png>
+Package pdftex.def Info: ./img/histeq_ex_07.png  used on input line 220.
+(pdftex.def)             Requested size: 227.64894pt x 184.71259pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 234.
+(C:\Users\alber\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+
+[1{C:/Users/alber/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}
+
+
+
+]
+Underfull \vbox (badness 2261) has occurred while \output is active []
+
+
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[2 <./img/EX2_only_resized_41_84.png (PNG copy)> <./img/EX2_padded_and_resized_41_84.png (PNG copy)> <./img/histeq_gray_orig_ex_07.png (PNG copy)> <./img/histeq_ex_07.png (PNG copy)>] (main.bbl)
+
+
+
+[3
+
+]
+<./img/No_Preprocessing_fold1_80_20_acc_0.81457.pdf, id=24, 807.015pt x 516.93124pt>
+File: ./img/No_Preprocessing_fold1_80_20_acc_0.81457.pdf Graphic file (type pdf)
+<use ./img/No_Preprocessing_fold1_80_20_acc_0.81457.pdf>
+Package pdftex.def Info: ./img/No_Preprocessing_fold1_80_20_acc_0.81457.pdf  used on input line 284.
+(pdftex.def)             Requested size: 227.64967pt x 162.60545pt.
+<./img/No_Preprocessing_fold2_80_20_acc_0.83311.pdf, id=25, 808.01875pt x 516.93124pt>
+File: ./img/No_Preprocessing_fold2_80_20_acc_0.83311.pdf Graphic file (type pdf)
+<use ./img/No_Preprocessing_fold2_80_20_acc_0.83311.pdf>
+Package pdftex.def Info: ./img/No_Preprocessing_fold2_80_20_acc_0.83311.pdf  used on input line 288.
+(pdftex.def)             Requested size: 227.64925pt x 162.60545pt.
+<./img/No_Preprocessing_fold1_80_20_square_acc_0.85298.pdf, id=26, 808.01875pt x 516.93124pt>
+File: ./img/No_Preprocessing_fold1_80_20_square_acc_0.85298.pdf Graphic file (type pdf)
+<use ./img/No_Preprocessing_fold1_80_20_square_acc_0.85298.pdf>
+Package pdftex.def Info: ./img/No_Preprocessing_fold1_80_20_square_acc_0.85298.pdf  used on input line 293.
+(pdftex.def)             Requested size: 227.64925pt x 162.60545pt.
+<./img/No_Preprocessing_fold2_80_20_square_acc_0.83179.pdf, id=27, 831.105pt x 482.80376pt>
+File: ./img/No_Preprocessing_fold2_80_20_square_acc_0.83179.pdf Graphic file (type pdf)
+<use ./img/No_Preprocessing_fold2_80_20_square_acc_0.83179.pdf>
+Package pdftex.def Info: ./img/No_Preprocessing_fold2_80_20_square_acc_0.83179.pdf  used on input line 297.
+(pdftex.def)             Requested size: 227.64784pt x 162.60403pt.
+<./img/FINAL_USH_n_PAD_fold1_acc_0.86490.pdf, id=28, 832.10875pt x 516.93124pt>
+File: ./img/FINAL_USH_n_PAD_fold1_acc_0.86490.pdf Graphic file (type pdf)
+<use ./img/FINAL_USH_n_PAD_fold1_acc_0.86490.pdf>
+Package pdftex.def Info: ./img/FINAL_USH_n_PAD_fold1_acc_0.86490.pdf  used on input line 302.
+(pdftex.def)             Requested size: 227.64345pt x 162.60545pt.
+<./img/FINAL_USH_n_PAD_fold2_acc_0.83576.pdf, id=29, 787.94376pt x 516.93124pt>
+File: ./img/FINAL_USH_n_PAD_fold2_acc_0.83576.pdf Graphic file (type pdf)
+<use ./img/FINAL_USH_n_PAD_fold2_acc_0.83576.pdf>
+Package pdftex.def Info: ./img/FINAL_USH_n_PAD_fold2_acc_0.83576.pdf  used on input line 306.
+(pdftex.def)             Requested size: 227.6442pt x 162.60545pt.
+<./img/AlexNet_scheme.png, id=30, 639.89063pt x 256.70906pt>
+File: ./img/AlexNet_scheme.png Graphic file (type png)
+<use ./img/AlexNet_scheme.png>
+Package pdftex.def Info: ./img/AlexNet_scheme.png  used on input line 317.
+(pdftex.def)             Requested size: 505.89pt x 202.9546pt.
+
+
+[4 <./img/No_Preprocessing_fold1_80_20_acc_0.81457.pdf> <./img/No_Preprocessing_fold2_80_20_acc_0.83311.pdf> <./img/No_Preprocessing_fold1_80_20_square_acc_0.85298.pdf> <./img/No_Preprocessing_fold2_80_20_square_acc_0.83179.pdf> <./img/FINAL_USH_n_PAD_fold1_acc_0.86490.pdf> <./img/FINAL_USH_n_PAD_fold2_acc_0.83576.pdf>]
+
+[5 <./img/AlexNet_scheme.png>] (main.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 2
+L3 programming layer <2024-05-27>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 8433 strings out of 475512
+ 145389 string characters out of 5765492
+ 1941908 words of memory out of 5000000
+ 30952 multiletter control sequences out of 15000+600000
+ 578020 words of font info for 75 fonts, out of 8000000 for 9000
+ 131 hyphenation exceptions out of 8191
+ 69i,10n,79p,523b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/alber/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (5 pages, 1325932 bytes).
+PDF statistics:
+ 125 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
